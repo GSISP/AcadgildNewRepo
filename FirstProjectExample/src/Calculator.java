@@ -2,12 +2,12 @@
 public class Calculator {
 
 	
-	static int static_num=100;  //200
+	static int static_num=300;  //200
 	
-	int non_sta_num=200;
+	int non_sta_num=700;
 
 	public Calculator(int i) {
-		// TODO Auto-generated constructor stub
+		
 	}
 	//non static	
 	public static void main(String [] args){ //JVM
